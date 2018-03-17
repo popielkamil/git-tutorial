@@ -1,2 +1,6 @@
-# git-tutorial
-Repozytorium stworzone na potrzeby prezentacji na temat GITa i GitHuba
+# Przykładowy projekt
+
+Przykładowy projekt używający GITa
+
+Ble ble ble
+
