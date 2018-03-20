@@ -1,3 +1,7 @@
 body
 {background: red;
 }
+table
+{
+	border:2px solid blue;
+}
